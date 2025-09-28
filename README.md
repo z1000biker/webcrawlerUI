@@ -16,10 +16,7 @@ A user-friendly GUI application that extracts main text content from websites wh
 - 🛑 **Safe Crawling**: Respects robots.txt and includes polite crawling delays
 - 📊 **Progress Tracking**: Real-time logs and progress bar during crawling
 
-## Screenshots
 
-![Main Interface](https://via.placeholder.com/800x600?text=Web+Content+Extractor+GUI)
-*(Note: Replace with actual screenshot when available)*
 
 ## Installation
 
